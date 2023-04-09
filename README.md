@@ -4,7 +4,7 @@ akademiTakip akademi bursiyerlerine özel olarak, aylık görev takibini kolayla
 
 Uygulama tanıtım videosu için tıkla!
 
-U - 39 Proje Ekibi: 
+F - 39 Proje Ekibi: 
 - Bahar Togay (https://github.com/bahartogaay)
 - Beyza Nur Okatan (https://github.com/BeyzaOkatan)
 - Beyza Ekmekçi (https://github.com/Beyza-Ekmekci)
