@@ -16,5 +16,5 @@ Resources :
 - [OUA illustrations and icons from OUA website](https://oyunveuygulamaakademisi.com/)
 
 test kullanıcı giriş bilgileri : 
-- email : ali_yilmazz@gmail.com
+- email : aliyilmaz@f39.com
 - şifre : akademiTakip
